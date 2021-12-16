@@ -34,7 +34,7 @@ I would spend additional time understanding each type of hyperparameter setting 
 
 TODO: Replace the image below with your own.
 
-![Model Test Score Graph](https://github.com/remiri/MachineLearningStuff/blob/main/model_test_score.png/model_test_score.png)
+![Model Test Score Graph](https://github.com/remiri/MachineLearningStuff/blob/main/model_test_score.png)
 
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
